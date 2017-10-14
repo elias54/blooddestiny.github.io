@@ -1,0 +1,53 @@
+header{
+  font-family: 'Comfortaa', sans-serif;
+  font-weight: bold;
+}
+
+body{
+  font-family: 'Comfortaa', sans-serif;
+  background-color: #1a1b17;
+}
+
+.logo-text{
+  font-size: 42.5px;
+  text-decoration: none;
+  color: #4f0998;
+}
+.logo-text:hover{
+  color: #4f0998;
+  text-decoration: none;
+}
+.logo{
+  margin-top: 50px;
+}
+
+.bud{
+  margin-top: 80px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  line-height: auto;
+  background-color: #262626;
+}
+.title{
+  font-size: 42.5px;
+  font-weight: bold;
+  color:white;
+}
+.text{
+  font-size: 30px;
+  font-weight: lighter;
+  color: white;
+}
+.alliancename{
+  font-weight: bold;
+  font-style: italic;
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
